@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="90"
+   height="32"
+   fill="none"
+   alt="Safe logo"
+   version="1.1"
+   id="svg843"
+   sodipodi:docname="canto-safe.svg"
+   inkscape:version="1.1 (c4e8f9e, 2021-05-24)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview845"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:zoom="4.8510028"
+     inkscape:cx="44.423805"
+     inkscape:cy="16.388364"
+     inkscape:window-width="1312"
+     inkscape:window-height="847"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg843">
+    <sodipodi:guide
+       position="50.530911,25.486976"
+       orientation="0,-1"
+       id="guide3293" />
+  </sodipodi:namedview>
+  <defs
+     id="defs837">
+    <linearGradient
+       id="a"
+       x1="1.28"
+       y1="164.53"
+       x2="258.89"
+       y2="164.53"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="gold"
+         id="stop824" />
+      <stop
+         offset="0.02"
+         stop-color="#fcd403"
+         id="stop826" />
+      <stop
+         offset="0.22"
+         stop-color="#e6be19"
+         id="stop828" />
+      <stop
+         offset="0.43"
+         stop-color="#d7ad29"
+         id="stop830" />
+      <stop
+         offset="0.68"
+         stop-color="#cea432"
+         id="stop832" />
+      <stop
+         offset="1"
+         stop-color="#cba135"
+         id="stop834" />
+    </linearGradient>
+  </defs>
+  <rect
+     style="fill:#000000;stroke-width:2.14346"
+     id="rect3189"
+     width="272.37698"
+     height="144.6711"
+     x="-81.303436"
+     y="-56.455437" />
+  <path
+     fill-rule="evenodd"
+     clip-rule="evenodd"
+     d="M25.322-19.279v6.76h-6.293v25.684h6.293v6.76h30.207V-19.28zm23.447 6.759H32.547v6.759h-6.76V6.406h6.76v6.759H48.77v-6.76H32.547V-5.76H48.77z"
+     fill="inherit"
+     style="fill-opacity:1;fill:#06fc99"
+     transform="translate(-13.51 15.813) scale(.75991)"
+     id="path841" />
+  <g
+     aria-label="SAFE"
+     id="text2204"
+     style="font-size:23.277px;line-height:1.25;font-family:Silkscreen;-inkscape-font-specification:Silkscreen;fill:#06fc99;stroke-width:0.581924;fill-opacity:1"
+     transform="matrix(1.3062684,0,0,1.3062684,-9.4318145,-4.8611235)">
+    <path
+       d="M 37.174956,11.616984 V 8.7073586 h 8.728876 v 2.9096254 z m 5.819251,8.728875 v -2.909625 h -5.819251 v -2.909625 h -2.909625 v -2.909625 h 2.909625 v 2.909625 h 5.819251 v 2.909625 h 2.909625 v 2.909625 z m -8.728876,2.909625 v -2.909625 h 8.728876 v 2.909625 z"
+       id="path2976"
+       style="fill:#06fc99;fill-opacity:1" />
+    <path
+       d="m 49.723082,23.255484 v -11.6385 h 2.909625 V 8.7073586 h 5.81925 v 2.9096254 h 2.909625 v 11.6385 h -2.909625 v -5.81925 h -5.81925 v 5.81925 z m 2.909625,-8.728875 h 5.81925 v -2.79324 h -5.81925 z"
+       id="path2978"
+       style="fill:#06fc99;fill-opacity:1" />
+    <path
+       d="M 65.180832,23.255484 V 8.7073586 h 8.728875 v 2.9096254 h -5.81925 v 2.909625 h 5.81925 v 2.909625 h -5.81925 v 5.81925 z"
+       id="path2980"
+       style="fill:#06fc99;fill-opacity:1" />
+    <path
+       d="M 77.728958,23.255484 V 8.7073586 h 8.728875 v 2.9096254 h -5.81925 v 2.909625 h 5.81925 v 2.909625 h -5.81925 v 2.909625 h 5.81925 v 2.909625 z"
+       id="path2982"
+       style="fill:#06fc99;fill-opacity:1" />
+  </g>
+</svg>
